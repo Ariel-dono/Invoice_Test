@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAriel-dono%2FInvoice_Test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAriel-dono%2FInvoice_Test?ref=badge_shield)
+
 ### Sobre la solución implementada:
 ##### Framework:
 - Gorilla Mux
@@ -26,3 +28,7 @@ http://www.gorillatoolkit.org/pkg/mux
 ###### Ampliar sobre la implementación de UUID de google:
 https://godoc.org/github.com/google/uuid
 https://github.com/google/uuid
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAriel-dono%2FInvoice_Test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAriel-dono%2FInvoice_Test?ref=badge_large)
